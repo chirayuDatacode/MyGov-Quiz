@@ -1,0 +1,74 @@
+.navbarUpper {
+  height: 38px;
+  margin-bottom: 0 !important; /* Removes any bottom margin */
+  padding-bottom: 0 !important; /* Removes any bottom padding */
+  margin-top: 0 !important; /* Removes any bottom margin */
+  padding-top: 0 !important; /* Removes any bottom padding */
+  background: 233.19deg, #8EC850 -256.88%, #428DCB -167.3%, #2AB998 -81.23%, #C2579B -2.2%, #EC7026 80.36%;
+  background: linear-gradient(233.19deg, #8EC850 -256.88%, #428DCB -167.3%, #2AB998 -81.23%, #C2579B -2.2%, #EC7026 80.36%);
+}
+
+.navbarLower {
+  background-color: #2E4B90 !important;
+  height: 66px;
+  display: flex;
+  margin-top: 0 !important; /* Removes any bottom margin */
+  padding-top: 0 !important; /* Removes any bottom padding */
+  margin-bottom: 0 !important; /* Removes any bottom margin */
+  padding-bottom: 0 !important; /* Removes any bottom padding */
+}
+
+.vr {
+  align-self: center;
+}
+
+#img-flag {
+  height: 24px;
+  width: auto;
+}
+
+#img-hr {
+  margin-top: 0 !important; /* Removes any bottom margin */
+  padding-top: 0 !important; /* Removes any bottom padding */
+  margin-bottom: 0 !important; /* Removes any bottom margin */
+  padding-bottom: 0 !important; /* Removes any bottom padding */
+  display: block;
+}
+
+#img-Emblem {
+  align-items: center !important;
+  width: 100%; /* Makes the image fluid */
+  max-width: 100px; /* Maximum width */
+  min-width: 30px; /* Minimum width */
+  height: auto; /* Maintain aspect ratio */
+}
+
+#img-quiz {
+  margin-top: 0 !important; /* Removes any bottom margin */
+  padding-top: 0 !important; /* Removes any bottom padding */
+  width: auto; /* Makes the image fluid */
+  max-width: 100px; /* Maximum width */
+  min-width: 10px; /* Minimum width */
+  height: 20px; /* Maintain aspect ratio */
+}
+
+.gradient-hr {
+  height: 5px;
+  border: none;
+  background: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet);
+  margin-top: 0 !important; /* Removes any bottom margin */
+  padding-top: 0 !important; /* Removes any bottom padding */
+}
+
+.navbarLowerContent {
+  min-height: 100%;
+  margin-bottom: 0 !important; /* Removes any bottom margin */
+  padding-bottom: 0 !important; /* Removes any bottom padding */
+}
+
+p {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 500;
+  color: #000;
+  font-size: small;
+}/*# sourceMappingURL=Header.css.map */

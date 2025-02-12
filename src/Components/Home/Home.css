@@ -1,0 +1,47 @@
+.container {
+  width: 100%;
+}
+
+.All {
+  font-family: "Montserrat", sans-serif !important;
+  font-weight: 500;
+}
+
+.pink-btn {
+  color: #701C33 !important;
+  background: #FFF0F3 !important;
+  border: 1px solid #F09EAD !important;
+}
+
+.grey-box {
+  background: #E4EAEC;
+}
+
+.grey-block {
+  background: #4e606d;
+}
+
+.btn-login {
+  color: white !important;
+  background: red !important;
+  border: 1px solid #F09EAD !important;
+}
+
+.btn-red {
+  background: rgb(164, 40, 63);
+}
+
+.white-box-text {
+  font-size: 46px;
+}
+
+.about_quiz p, .quiz_condition p {
+  font-family: "Poppins", sans-serif !important; /* or any clean sans-serif font */
+  font-size: 15px;
+  line-height: 1.5;
+}
+
+.logo3 {
+  height: 40px;
+  width: auto;
+}/*# sourceMappingURL=Home.css.map */
