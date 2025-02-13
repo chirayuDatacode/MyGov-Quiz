@@ -6,7 +6,7 @@ import "./Footer.scss";
 export default function Footer(){
   return (
     <>
-    <footer className="footer wrapper-footer">
+    <footer className="footer wrapper-footer ">
       <div className="logo-wrapper-start container-fluid d-flex justify-content-center pt-2 gap-3 w-100 mx-0 px-0 ">
           <div className="row d-flex justify-content-center w-100 ">
             <div className="col-lg-10 d-flex justify-content-between align-items-center mb-2">
