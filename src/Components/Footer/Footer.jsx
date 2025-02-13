@@ -14,7 +14,7 @@ export default function Footer(){
                 <div className="server-info-right"><span><strong>Last Updated: Feb, 2025 -aexa-quizweb01</strong></span></div>
             </div>
             <div className="hor_ruler col-lg-10 pt-0"><hr /></div>
-            <div className="col-lg-10 d-flex justify-content-between align-items-center mb-2 bg-primary">
+ b           <div className="col-lg-10 d-flex justify-content-between align-items-center mb-2 bg-primary">
                 <div className="row  bg-danger w-100 d-flex justify-content-between">
                   <div className="col-6 bg-success">
                     <div className="d-flex  ">
